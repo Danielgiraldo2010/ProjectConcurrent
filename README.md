@@ -1,4 +1,4 @@
-# Proyecto Final:
+# Proyecto Programación Concurrente y Distribuida:
 
 ## Análisis de Rendimiento de Dotplot
 
